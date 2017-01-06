@@ -1,0 +1,50 @@
+#image-grid, 
+#image-product{
+	height: 250px;
+}
+#image-product-home{
+	height: 400px;
+}
+td {
+	vertical-align: middle;
+}
+#image-quick-view{
+	max-width: 300px;
+	max-width: 300px;
+}
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+    width: 10%
+}
+.featuredCollection .thumbnail{
+	border: 1px solid #D7CBCB;
+	padding: 5px;
+	border-radius: 3px;
+
+}
+.featuredCollection .thumbnail .caption{
+	margin-bottom: 40px;
+	text-align: center;
+}
+.featuredProductsSlider .slide{
+	border: 1px solid #E1DADA;
+	padding: 10px;
+	text-align: center;
+}
+.featuredProductsSlider .slide .productCaption{
+	margin-bottom: 30px;
+}
+.productBox{
+	text-align: center;
+}
+.footer-link h3{
+	color: #F5F2F2
+}
+.well .page .next{
+	text-align:right;
+}
+.well .pager .next input{
+	width: 200px;
+}

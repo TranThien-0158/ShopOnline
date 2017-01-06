@@ -1,0 +1,16 @@
+.fixImage{
+	width: 70px;
+	height: 70px;
+	border: 1px solid #bbb;
+	padding: 3px;
+	border-radius: 5px;
+	margin-left: 50px;
+}
+.fixSlide{
+	width: 150px;
+	height: 150px;
+	border: 1px solid #bbb;
+	padding: 3px;
+	border-radius: 5px;
+	margin-left: 50px;
+}
